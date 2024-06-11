@@ -5,7 +5,7 @@ Library             Browser
 Resource            ./actions.resource
 
 *** Variables ***
-${BASE_URL}         https://loginxp.vercel.app
+${BASE_URL}         https://front.serverest.dev/login
 ${BROWSER}          chromium
 ${IS_HEADLESS}      True
 
